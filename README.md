@@ -1,16 +1,8 @@
-### Hi there 👋
+### Привет 👋, меня зовут Борис!
+#### Я python-разработчик.
 
-<!--
-**s1owp0k3r/s1owp0k3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 Я окончил механико-математический факультет НГУ
+- 🌱 Я прошел курс Яндекс.Практикум для python-разработчика
+- 💻 Я продолжаю изучать Python и его фреймворки
+- ✅ Мой стек технологий: Python, Django, DRF, SQL, Docker
+- 💾 Мои проекты доступны в [репозитории](https://github.com/s1owp0k3r?tab=repositories)
